@@ -4,7 +4,7 @@
 //
 
 android_app {
-    name: "Vlad's Egg",
+    name: "VladBall",
     srcs: ["src/**/*.java"],
     resource_dirs: ["res"],
     certificate: "platform",
